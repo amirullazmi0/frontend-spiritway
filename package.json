@@ -11,6 +11,7 @@
   "dependencies": {
     "react": "^18",
     "react-dom": "^18",
+    "react-photo-sphere-viewer": "^3.4.0-psv5.4.0",
     "next": "14.0.3"
   },
   "devDependencies": {
